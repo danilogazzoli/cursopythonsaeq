@@ -1,4 +1,5 @@
-# cursopythonsaeq
+# Minicurso de Python ministrado na Semana Acadêmica de Engenharia Química da UFPR
+
 Mini curso ofertado para a semana de Engenharia Química da Universidade Federal do PR
 
 
